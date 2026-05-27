@@ -1,0 +1,6 @@
+{
+  "name": "ระบบแจ้งซ่อมโคมไฟถนนสำหรับหน่วยงานรัฐ",
+  "description": "ระบบแจ้งซ่อมและบริหารจัดการโคมไฟถนนสำหรับหน่วยงานภาครัฐ ครอบคลุมการแจ้งซ่อม แผนที่นำทาง คลังวัสดุ การอนุมัติ และการออกเอกสาร PDF",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

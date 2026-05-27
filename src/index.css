@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;705;700;800&family=Fira+Code:wght@400;500;605;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-brand-sidebar: #1B263B;
+  --color-brand-deep: #0D1B2A;
+  --color-brand-bg: #F8F9FA;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "Fira Code", monospace;
+}
+
+body {
+  background-color: var(--color-brand-bg);
+  font-family: var(--font-sans);
+}
